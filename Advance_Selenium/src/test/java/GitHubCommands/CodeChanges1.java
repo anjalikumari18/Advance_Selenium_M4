@@ -8,6 +8,10 @@ public class CodeChanges1 {
 		
 		System.out.println("Testing the push commands");
 
+		System.out.println("Testing the Pull command");
+
+		
+
 	}
 
 }
