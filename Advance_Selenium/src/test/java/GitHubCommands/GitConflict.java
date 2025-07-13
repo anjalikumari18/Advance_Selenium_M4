@@ -6,7 +6,7 @@ public class GitConflict {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("I am trying to make s git conflict");
+		System.out.println("I am trying to make a git conflict");
 
 	}
 
